@@ -1,0 +1,4 @@
+github.com/harmonikit/harmoni v0.1.0 h1:S4Q5YB9QPGIakvUWXb+abvQazvBcuFWPbrOAm9I3cJ4=
+github.com/harmonikit/harmoni v0.1.0/go.mod h1:jpf5wGVsR/74OEg9WUN1fk9gTvZtwVzv3RfQrt3qDcU=
+github.com/harmonikit/kit/transport/http v0.1.0 h1:G4XXEVkjIGD91PNuhE1g2vkucPW3AVzC397u5mx/Kj8=
+github.com/harmonikit/kit/transport/http v0.1.0/go.mod h1:wPNJdLBRsG9kSpdqG2cmf5vxSLzh98H08kaIh4W0bNE=
